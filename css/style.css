@@ -1,0 +1,17 @@
+h1{
+	font-size: 50px;
+}
+
+.heading_1{
+	background-color: green;
+}
+
+#text_1{
+	border: 5px dotted red;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
